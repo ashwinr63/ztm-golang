@@ -26,3 +26,4 @@ func main() {
 	fmt.Println(div.calculate(100, 2)) // = 50
 }
 
+

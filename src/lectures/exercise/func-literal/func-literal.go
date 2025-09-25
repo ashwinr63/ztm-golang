@@ -18,8 +18,6 @@
 
 package main
 
-import "fmt"
-
 func main() {
 	lines := []string{
 		"There are",
@@ -29,4 +27,5 @@ func main() {
 		"and 4 punctuation marks in these lines of text!",
 	}
 }
+
 
