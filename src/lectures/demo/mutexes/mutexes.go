@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math/rand"
 	"time"
 )
@@ -13,3 +12,4 @@ func wait() {
 func main() {
 	rand.New(rand.NewSource(time.Now().UnixNano()))
 }
+

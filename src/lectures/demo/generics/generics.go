@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 const (
 	Low    = iota
 	Medium
@@ -10,3 +8,4 @@ const (
 
 func main() {
 }
+

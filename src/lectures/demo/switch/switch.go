@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func price() int {
 	return 1
 }
@@ -15,3 +13,4 @@ const (
 func main() {
 
 }
+

@@ -14,9 +14,8 @@
 
 package main
 
-import "fmt"
-
 type Part string
 
 func main() {
 }
+

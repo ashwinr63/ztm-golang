@@ -84,3 +84,4 @@ func main() {
 	//* Use packages from the standard library to complete the project
 	//* Try using different values for your variables to check the results
 }
+

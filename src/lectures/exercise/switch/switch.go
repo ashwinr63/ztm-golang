@@ -11,8 +11,6 @@
 
 package main
 
-import "fmt"
-
 func main() {
 	switch age := 26; {
 	case age == 0:
@@ -39,3 +37,4 @@ func main() {
 	//  - "teenager" when age is 13 through 17
 	//  - "adult" when age is 18+
 }
+
